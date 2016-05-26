@@ -1,0 +1,1 @@
+"""Programa que imprime Fizz si un numero es multiplo de 3, imprime Buzz si es Multiplo de 5 y fizzbuzz si es multiplo de 3 y 5"""
